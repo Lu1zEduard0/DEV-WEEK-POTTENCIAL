@@ -4,7 +4,7 @@
 ![](https://blog.pottencial.com.br/wp-content/uploads/2020/12/MARCA_POTTENCIAL_BOX_2015_CMYK_NEG_HORZ.jpg)
 
 
-##Sistema de Cadastros 
+## Sistema de Cadastros 
 - [x] API
 - [x] .NET CLI
 - [x] Entity Framework
@@ -16,7 +16,7 @@
 
 
 
-###Saiba Mais:
+### Saiba Mais:
 
 - [Digital Innovation One](https://web.dio.me/home)
 - [Dev Week Pottencial](https://www.dio.me/dev-week/pottencial/net-developer)
